@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=300&section=header&text=Welcome%20my%20github!&fontSize=90)
-
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuntasha&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuntasha&layout=compact)   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/jaljayo85/)   
+</div>
 <!--
 **yuntasha/yuntasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
