@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=300&section=header&text=Welcome%20my%20github!&fontSize=90)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuntasha&show_icons=true&theme=radical" />&nbsp&nbsp&nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuntasha&layout=compact" />&nbsp
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/jaljayo85/" />&nbsp
+  <img src="https://github-readme-stats.vercel.app/api?username=yuntasha&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuntasha&layout=compact" />
+  <br>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/jaljayo85/" />
 </div>
 <!--
 **yuntasha/yuntasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
