@@ -8,7 +8,7 @@
   <br>
   <br>
   <br>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/jaljayo85/" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jaljayo85" />
 </div>
 <!--
 **yuntasha/yuntasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
