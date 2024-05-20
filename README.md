@@ -2,7 +2,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuntasha&show_icons=true&theme=radical" />
   <br>
+  <br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuntasha&layout=compact" />
+  <br>
+  <br>
   <br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/jaljayo85/" />
 </div>
