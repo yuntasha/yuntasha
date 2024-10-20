@@ -9,6 +9,7 @@
   <br>
   <br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jaljayo85" />
+  <img src="http://mazandi.herokuapp.com/api?handle={jaljayayo85}&theme=cold"/>
 </div>
 <!--
 **yuntasha/yuntasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
